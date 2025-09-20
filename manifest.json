@@ -20,7 +20,8 @@
 		"declarativeNetRequest"
 	],
 	"host_permissions": [
-		"*://i.redd.it/*"
+		"*://i.redd.it/*",
+		"*://preview.redd.it/*"
 	],
 
 	"browser_specific_settings": {

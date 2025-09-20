@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"condition": {
-			"urlFilter": "||i.redd.it/*",
+			"regexFilter": ".+?://(preview|i).redd.it/*",
 			"resourceTypes": ["main_frame"]
 		},
 		"action": {
