@@ -1,0 +1,25 @@
+{
+	"$schema": "https://json.schemastore.org/webextension.json",
+	"name": "stop i.redd.it redirects",
+	"description": "stop i.redd.it from redirecting you to their weird html viewer",
+	"version": "1.0",
+	"icons": {
+		"128": "icon.png"
+	},
+	"manifest_version": 3,
+	"declarative_net_request": {
+		"rule_resources": [
+			{
+				"id": "strip_accept",
+				"enabled": true,
+				"path": "strip_accept.json"
+			}
+		]
+	},
+	"permissions": [
+		"declarativeNetRequest"
+	],
+	"host_permissions": [
+		"*://i.redd.it/*"
+	]
+}
