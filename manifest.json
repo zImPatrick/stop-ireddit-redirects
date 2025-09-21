@@ -2,7 +2,7 @@
 	"$schema": "https://json.schemastore.org/webextension.json",
 	"name": "stop i.redd.it redirects",
 	"description": "stop i.redd.it from redirecting you to their weird html viewer",
-	"version": "1.0",
+	"version": "1.1",
 	"icons": {
 		"128": "assets/icon.png"
 	},

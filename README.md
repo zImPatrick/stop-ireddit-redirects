@@ -4,7 +4,7 @@ have you ever opened an i.redd.it link in a new tab, only to get redirected to a
 ![an image comparing a direct visit to i.redd.it/nrytvey30bqf1.jpeg without the extension to one with the extension enabled](./assets/screenshot.png)
 
 ## installation
-the extension is currently not published to either [the chrome webstore](https://chromewebstore.google.com/), nor to [firefox's add-ons store](https://addons.mozilla.org/en-US/firefox/), so you'll need to install it manually in dev mode. i'm working on it!
+the extension is also published to the [chrome webstore](https://chromewebstore.google.com/detail/stop-ireddit-redirects/fhongcbgjhfinandonifkacibmabcdie) and [firefox's add-ons store](https://addons.mozilla.org/firefox/addon/stop-i-redd-it-redirects/), but you can also manually install the extension by following these instructions:
 
 ### chrome
 1. download this repository (either by git cloning or downloading a zip & unzipping it)
